@@ -1,2 +1,0 @@
-# mountain-dew-project
-website
